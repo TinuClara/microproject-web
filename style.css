@@ -1,0 +1,210 @@
+.index_body
+{
+	margin:0;
+}
+.header
+{
+	background:#f55742;
+	width:100%;
+	height:80px;
+}
+.logo
+{
+	width:50%;
+	padding-top:10px;
+	float:left;
+}
+.menu
+{
+		width:50%;
+		float:left;
+		
+}
+
+.logo-text
+{
+	color:white;
+	font-size:35px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:25px;
+	
+}
+.login-table
+{
+	margin-left:125px;
+	border:0;
+
+}
+.login-label
+{
+	color:white;
+	font-size:18px;
+}
+.main-body{
+	background:#dadde0;
+	width:100%;
+	height:511px;
+	padding-top:5px;
+}
+.left
+{
+	width:50%;
+	padding-left:41px;
+	float:left;
+}
+.description
+{
+	font-size:21px;
+	font-weight:bold;
+}
+.right
+{
+	width:39%;
+	float:left;
+}
+.reg-form
+{
+	height:25px;
+	width:377px;
+	border-radius:19px;
+	font-size:18px;
+	text-align: center;
+}
+.reg-submit
+{
+	 background:green;
+	 font-size:18px;
+	 border-radius:19px;
+}
+.footer
+{
+	background:#f55742;
+	width:100%;
+	height:86px;
+	padding-top:5px;
+	padding-left: 59px;
+	padding-bottom:20px;
+	
+}
+
+.footer-left
+{
+	width:33.3%;
+	height:80px;
+	float:left;
+}
+.footer-connect
+{
+	color:white;
+    font-size:18px;
+	font-weight:bold;
+}
+.footer-middle
+{
+	width:33.3%;
+	float:left;
+}
+.footer-bookshelf
+{
+	color:white;
+	font-size:35px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:25px;
+	
+}
+
+
+.connect-with-us
+{
+	width:30px;
+	height:30px;
+}
+
+.left-admin
+{
+	width: 17%;
+    height: 516px;
+    float: left;
+    background: #938c8c;
+	padding-left:10px;
+	margin-top:-5px;
+	
+}
+.right-admin
+{
+	width: 82%;
+    height:511px;
+    float: left;
+}
+.dashboard
+{
+	color:white;
+}
+.dashb
+{
+	color:white;
+	font-weight:bold;
+	font-size:21px;
+}
+.heading
+{
+	margin-left:20px;
+}
+.logout{padding-bottom:5px;
+padding-right:5px;}
+}
+.logout-table{
+	padding-left:515px;
+}
+.menu1{
+	float:left;
+	padding-left:5px;
+	padding-top: 13px;
+	width:500px;}
+.table 
+{
+	width:100%;
+	border:1px solid black;
+	
+	font-size:20px;	
+}
+table,th,td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.table_head
+{
+	font-weight:bold;
+	background:red;
+	padding-left:25px;
+}
+
+.details
+{
+	color:ash;
+	text-align:center;
+	
+	
+	
+}
+
+.table_body
+{
+	padding-left:1px;
+	padding-left:25px;
+	
+}
+.del
+{background:red;
+text-decoration:none;
+color:white}
+
+.edit
+{background:green;
+text-decoration:none;
+color:white}
+
